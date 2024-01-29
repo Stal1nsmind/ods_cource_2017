@@ -1,0 +1,11 @@
+# Ignore logs, plots, txts
+*.log
+*.dot
+*.txt
+*.jpg
+
+# Ignore test files
+test.ipynb
+test.py
+tst.ipynb
+tst.py
